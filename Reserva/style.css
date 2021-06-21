@@ -381,7 +381,7 @@ header {
 .card-info p {
   font-family: var(--font-secundary);
   color: #eee;
-  font-weight: 400;
+  font-weight: 500;
   width: 80%;
   margin-bottom: 2rem;
 }
