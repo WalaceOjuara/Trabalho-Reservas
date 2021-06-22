@@ -425,9 +425,9 @@ header {
 }
 
 .contato-left {
-  width: 35%;
-  background: linear-gradient(rgba(15, 15, 15, 0.6), rgba(22, 22, 22, 0.9)),
-    url(imagens/contato.jpg);
+  width: 45%;
+  background: linear-gradient(rgba(27, 27, 27, 0.6), rgba(71, 71, 71, 0.9)),
+    url(imagens/../imgs/homercat.png);
   background-size: cover;
 }
 
