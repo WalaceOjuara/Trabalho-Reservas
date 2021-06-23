@@ -19,7 +19,7 @@ function atualizarPreco(){
     const prazo = document.querySelector("#prazo").value
   
     let preco = qtde * 100;
-    if (carro) preco *= 1.1
+    if (carro) preco *= 1.3
     if (incluihotel) preco += 500
     let taxaUrgencia = 1 + prazo*0.1;
     preco *= 1 + taxaUrgencia
