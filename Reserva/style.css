@@ -421,13 +421,13 @@ header {
   width: 60%;
   height: 30rem;
   display: flex;
-  box-shadow: 0 2rem 3rem rgba(0, 0, 0, 0.5);
+  box-shadow: 0 2rem 3rem rgba(80, 80, 80, 0.5);
 }
 
 .contato-left {
-  width: 45%;
-  background: linear-gradient(rgba(27, 27, 27, 0.6), rgba(71, 71, 71, 0.9)),
-    url(imagens/../imgs/homercat.png);
+  width:45em;
+  background: linear-gradient(rgba(114, 114, 114, 0.6), rgba(2, 2, 2, 0.9)),
+    url(imagens/../imgs/daftpunktocat-guy.gif);
   background-size: cover;
 }
 
