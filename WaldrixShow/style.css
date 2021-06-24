@@ -326,6 +326,7 @@ header {
   display: flex;
   justify-content: space-evenly;
   margin-bottom: 2rem;
+  flex-wrap: wrap;
 }
 
 .card {
@@ -339,6 +340,7 @@ header {
   height: 100%;
   background-color: #262626;
   border-radius: 0.5rem;
+  
 }
 
 .card-img-wrapper img {
@@ -348,6 +350,7 @@ header {
   border-radius: 0.5rem;
   opacity: 0.8;
   transition: opacity 0.3s;
+  
 }
 
 .card:hover .card-img-wrapper img {
